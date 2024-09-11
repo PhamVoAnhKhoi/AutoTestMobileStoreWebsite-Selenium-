@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|d:\\learn\\testselenium\\automation\\testmobilewebsite\\testmobilewebsite\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|solutionrelative:testmobilewebsite\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|d:\\learn\\testselenium\\automation\\testmobilewebsite\\testmobilewebsite\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|solutionrelative:testmobilewebsite\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|d:\\learn\\testselenium\\automation\\testmobilewebsite\\testmobilewebsite\\regist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|solutionrelative:testmobilewebsite\\regist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|d:\\learn\\testselenium\\automation\\testmobilewebsite\\testmobilewebsite\\buyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B06C25-CA1F-402F-85BB-786396877C56}|TestMobileWebsite\\TestMobileWebsite.csproj|solutionrelative:testmobilewebsite\\buyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cs",
+              "DocumentMoniker": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\Search.cs",
+              "RelativeDocumentMoniker": "TestMobileWebsite\\Search.cs",
+              "ToolTip": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\Search.cs",
+              "RelativeToolTip": "TestMobileWebsite\\Search.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:36:59.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Regist.cs",
+              "DocumentMoniker": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\Regist.cs",
+              "RelativeDocumentMoniker": "TestMobileWebsite\\Regist.cs",
+              "ToolTip": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\Regist.cs",
+              "RelativeToolTip": "TestMobileWebsite\\Regist.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:36:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\Product.cs",
+              "RelativeDocumentMoniker": "TestMobileWebsite\\Product.cs",
+              "ToolTip": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\Product.cs",
+              "RelativeToolTip": "TestMobileWebsite\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:36:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyProduct.cs",
+              "DocumentMoniker": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\BuyProduct.cs",
+              "RelativeDocumentMoniker": "TestMobileWebsite\\BuyProduct.cs",
+              "ToolTip": "D:\\Learn\\TestSelenium\\Automation\\TestMobileWebsite\\TestMobileWebsite\\BuyProduct.cs",
+              "RelativeToolTip": "TestMobileWebsite\\BuyProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:36:23.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
